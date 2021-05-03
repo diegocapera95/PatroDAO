@@ -2,38 +2,38 @@
     "computadores": [
         {
             "id": 1,
-            "nombre": "XPS 15 9570 (J)",
-            "descripcion": "DELL XPS, 2018, 15\", AMD Intel Core i7, 16GB Ram"
+            "nombre": "PC SMART 4TLIA",
+            "descripcion": "Computador de alta capacidad de almacenamiento y rapidez"
         },
         {
             "id": 2,
-            "nombre": "HP 14 cm0008lm (J)",
-            "descripcion": "HP, 2018, 14\", Ryzen 3, 8GB Ram"
+            "nombre": "Computador HP line 6 T",
+            "descripcion": "Computador de alta capacidad de rendimiento y gráficos"
         }
     ],
     "partes": [
         {
             "id": 1,
-            "nombre": "Procesador (J)",
-            "descripcion": "Intel Core i5 8th Generación",
+            "nombre": "Teclado inalambrico",
+            "descripcion": "Teclado con bateria de alta duración y luces leds",
             "id_computador": 1
         },
         {
             "id": 2,
-            "nombre": "Memoria (J)",
-            "descripcion": "16GB DDR4, 2400MHz",
+            "nombre": "Mouse Inalambrico",
+            "descripcion": "Mouse optico de gran sensibilidad",
             "id_computador": 1
         },
         {
             "id": 3,
-            "nombre": "Procesador (J)",
-            "descripcion": "AMD Ryzen 3 2200U",
+            "nombre": "Memoria Ram",
+            "descripcion": "memoria ram de 15 g",
             "id_computador": 2
         },
         {
             "id": 4,
-            "nombre": "Memoria (J)",
-            "descripcion": "8GB DDR4, 2666MHz",
+            "nombre": "Disco Duro",
+            "descripcion": "Disco Duro GRANTD de 5T",
             "id_computador": 2
         }
     ]
